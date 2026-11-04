@@ -1,0 +1,40 @@
+
+Potential Visual language for website 
+
+Overall feel
+Clean, friendly, craft-shop minimalism. A mostly black-and-white Shopify layout that steps back and lets colorful pin photography do the talking, with a hand-made touch from the logo and an eco/green accent layered on top.
+Logo
+•	Hand-lettered script wordmark (“Enamel Pin”) with small, spaced-out sans caps for “THE” and “FACTORY” tucked around it.
+•	Black monoline, slightly retro, like sign painting or a vintage badge. It’s the only “personality” typography on the site.
+Color palette
+Role	Color	Notes
+Base text / buttons	Black #000000	Dominant color by far
+Background	White #FFFFFF	Lots of white space
+Accent (stars, highlights)	Coral #EE6549	Warm pop used for review stars
+Footer	Deep navy #141D29	Grounds the bottom of the page
+Countdown tiles	Slate navy #242B3E	Flip-clock style timer
+Promo banner	Soft leaf green	Ties into the eco/”GreenPins” messaging
+Secondary text	Grays #333, #666, #999	Captions, item counts
+The real color comes from the product photos: pastel blues, pinks, and mint greens.
+Typography
+•	DM Sans for everything (body, headings, buttons). A geometric, rounded, friendly sans.
+•	Headings are bold (700) with slightly wide letter spacing, centered, often with a short underline rule beneath.
+•	Body text is small and light (around 13px), keeping the page airy.
+Imagery
+•	Lifestyle flat-lays: pins on fabric, denim, and tote bags with soft natural light and shadows (the hero shows pins on a gray sweatshirt).
+•	Solid pastel backdrops for product shots: powder blue, blush pink, sage green.
+•	Category images are cropped into circles, which echoes the round badge shape. That’s their signature graphic device.
+•	A row of client logos (Nintendo, Sanrio, Panasonic, The Body Shop, Fangamer, Walker Books) for trust.
+UI elements
+•	Solid black buttons with lightly rounded corners (about 5px), white medium-weight text.
+•	Flip-clock countdown in the sale banner for urgency.
+•	A black vertical “★ Reviews” tab stuck to the right edge.
+•	Thin dotted borders separating sections; no heavy shadows or gradients.
+Copy tone
+Warm, plain, and practical: “Bringing your pin designs to life!”, “Get Creative”, “Let customers speak for us”. Benefit bullets are short and factual (Made in the UK, recycled materials, free artwork setup, fast production).
+Homepage structure
+Promo banner → logo header → lifestyle hero with CTA → benefit strip → circular category grid → reviews → Eco vs Enamel comparison → client logos → stickers cross-sell → newsletter → navy footer.
+Takeaways if you’re building your own pin brand
+What works: neutral UI so the pins pop, circular crops, real-life flat-lay photos, and one distinctive logo. Where you could stand out: they lean generic (stock Shopify layout, one font), so a stronger custom accent color or a more distinctive heading font would make your site feel less templated. Your photography skills would also be a real edge here, since product photos carry their whole look.
+Want me to sketch a visual direction for your own pin line using this as a reference point?
+
